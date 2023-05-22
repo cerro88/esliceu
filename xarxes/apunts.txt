@@ -1,1 +1,2 @@
-hola
+En este repositorio encontrarás todos los trabajos hechos en Redes durante el primer curso de FPGM Microinformática y redes.
+Faltan...
